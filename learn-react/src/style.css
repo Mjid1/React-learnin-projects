@@ -1,0 +1,45 @@
+.container{
+    margin-top: 20px;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+label{
+    padding-left: 10px;
+}
+
+h1{
+    border-style: hidden;
+    background-color: red;
+    color: black;
+    border-radius: 12px;  
+}
+input[type="checkbox"]{
+    margin-left: 10px;
+}
+
+.col {
+    background-color: orange;
+    color: black;
+    border: 5px;
+    border-radius: 20px;
+    margin: auto;
+    margin-left: 50px;
+}
+
+.photo{
+    height: 300px;
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-color: yellow;
+    border: 10px;
+    margin-bottom: 10px;
+  }
+h2{
+    font-size: large;
+    margin-left: 20%;
+}
